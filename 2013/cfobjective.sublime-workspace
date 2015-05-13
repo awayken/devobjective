@@ -1,0 +1,451 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"hiawa",
+				"hiawatha_matchup"
+			],
+			[
+				"lo",
+				"lowercase"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"vert",
+				"vertical-align"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/php.sublime-build",
+	"command_palette":
+	{
+		"height": 52.0,
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"packages",
+				"Preferences: Browse Packages"
+			],
+			[
+				"jin",
+				"Set Syntax: HTML (Jinja Templates)"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"diff",
+				"FileDiffs: Menu"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"jslint",
+				"JSLint: Run JSLint"
+			],
+			[
+				"git",
+				"Git: Push"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"mark",
+				"Markdown Preview: current file in Sublime Text"
+			],
+			[
+				"markdow",
+				"Markdown Preview: current file in Sublime Text"
+			],
+			[
+				"add",
+				"Package Control: Add Repository"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 417.0
+	},
+	"console":
+	{
+		"height": 288.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/miles/Sites/cfobjective-2013/day03/session04/index.html",
+		"/Users/miles/Sites/cfobjective-2013/day03/session04/scripts/app.js",
+		"/Users/miles/Sites/cfobjective-2013/day03/session04/scripts/myplugin.js",
+		"/Users/miles/Sites/cfobjective-2013/day02/session02/sampleWireBox.cfc",
+		"/Users/miles/Sites/cfobjective-2013/day02/session03/testapp/testapp/config.xml",
+		"/Users/miles/Sites/cfobjective-2013/day02/session03/testapp/www/index.html",
+		"/Users/miles/Sites/cfobjective-2013/day02/session02/idioms.cfc",
+		"/Users/miles/Sites/cfobjective-2013/day01/session02/grunt/index.html",
+		"/Users/miles/Sites/cfobjective-2013/day01/session02/grunt/package.json",
+		"/Users/miles/Sites/cfobjective-2013/day01/session02/nodelist.txt",
+		"/Users/miles/Sites/cfobjective-2013/day01/session02/package.json",
+		"/Users/miles/Sites/cfobjective-2013/day01/session01/build.xml",
+		"/Users/miles/Dropbox/WriteRoom/museum-story/001.txt",
+		"/Users/miles/Dropbox/WriteRoom/As They Are/readme.txt",
+		"/Users/miles/Dropbox/WriteRoom/On Writing/Description.txt",
+		"/Users/miles/Dropbox/WriteRoom/WriteRoom.sublime-project",
+		"/Users/miles/Library/Application Support/Sublime Text 2/Packages/WordCount/WordCount.sublime-settings",
+		"/Users/miles/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/miles/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/miles/Library/Application Support/Sublime Text 2/Packages/ActionScript/ActionScript.tmLanguage",
+		"/Users/miles/Sites/dunlin/_tests/spec/example_spec.js",
+		"/Users/miles/Sites/dunlin/_tests/index.html",
+		"/Users/miles/Sites/dunlin/_tests/spec-runner.js",
+		"/Users/miles/Sites/dunlin/dunlin/js/dunlin.js",
+		"/Users/miles/Sites/dunlin/dunlin/js/main.js",
+		"/Users/miles/Sites/dunlin/dunlin/js/config.js",
+		"/Users/miles/Sites/dunlin/dunlin/js/app.js",
+		"/Users/miles/Sites/hollirausch/www/wp-includes/general-template.php",
+		"/Users/miles/Sites/hollirausch/www/wp-content/themes/holli-joi-2012/style.css",
+		"/Users/miles/Sites/hollirausch/www/wp-config.php",
+		"/Users/miles/Sites/hollirausch/www/birthday.jpg",
+		"/Users/miles/Sites/mo/MIT-LICENSE",
+		"/Users/miles/.bash_profile",
+		"/Users/miles/.aliases",
+		"/Users/miles/.bashrc",
+		"/Users/miles/.bash_prompt",
+		"/Users/miles/Sites/autoconx/API.txt",
+		"/Users/miles/Sites/dotfiles/.screenrc",
+		"/Users/miles/Sites/dotfiles/.inputrc",
+		"/Users/miles/Sites/dotfiles/.bash_profile",
+		"/Users/miles/Sites/dotfiles/.aliases",
+		"/Users/miles/Sites/dotfiles/.gitconfig",
+		"/Users/miles/Sites/dotfiles/.vimrc",
+		"/Users/miles/Sites/zepto/.gitignore",
+		"/Users/miles/Sites/zepto/README.md",
+		"/Users/miles/Sites/zepto/src/selector.js",
+		"/Users/miles/Sites/zepto/src/touch.js",
+		"/Users/miles/Sites/zepto/src/zepto.js",
+		"/Users/miles/Sites/zepto/vendor/evidence.js",
+		"/Users/miles/Sites/hollirausch/www/wp-content/themes/holli-joi-2012/header.php",
+		"/Users/miles/Sites/hollirausch/www/wp-content/themes/holli-joi-2012/footer.php",
+		"/Users/miles/Library/Application Support/Sublime Text 2/Packages/User/php.sublime-build",
+		"/Users/miles/Sites/hollirausch/www/wp-content/themes/holli-joi-2012/inc/template-tags.php",
+		"/Users/miles/Sites/hollirausch/www/wp-content/themes/holli-joi-2012/content.php",
+		"/Users/miles/Sites/hollirausch/www/wp-content/themes/holli-joi-2012/functions.php",
+		"/Users/miles/Sites/hollirausch/www/wp-content/themes/holli-joi-2012/layouts/sidebar-content.css",
+		"/Users/miles/Sites/hollirausch/www/wp-content/themes/holli-joi-2012/inc/tweaks.php",
+		"/Users/miles/Sites/hollirausch/www/wp-content/themes/holli-joi-2012/no-results.php",
+		"/Users/miles/Sites/hollirausch/www/wp-content/themes/holli-joi-2012/single.php",
+		"/Users/miles/Sites/hollirausch/www/wp-content/themes/holli-joi-2012/index.php",
+		"/Users/miles/Sites/hollirausch/www/wp-content/themes/holli-joi-2012/image.php",
+		"/Users/miles/Sites/hollirausch/www/wp-content/themes/holli-joi-2012/page.php",
+		"/Users/miles/Sites/hollirausch/www/wp-content/themes/holli-joi-2012/searchform.php",
+		"/Users/miles/Sites/hollirausch/www/wp-content/themes/holli-joi-2012/sidebar.php",
+		"/Users/miles/Sites/hollirausch/www/wp-content/themes/holli-joi-2012/inc/theme-options/theme-options.php",
+		"/Users/miles/Sites/hollirausch/www/wp-content/themes/holli-joi-2012/inc/custom-header.php",
+		"/Users/miles/Sites/hollirausch/www/wp-content/themes/holli-joi-2012/layouts/content-sidebar.css",
+		"/Users/miles/Sites/hollirausch/www/wp-content/themes/holli-joi-2012/layouts/content-sidebar-sidebar.css",
+		"/Users/miles/Sites/hollirausch/www/wp-content/themes/holli-joi-2012/rtl.css",
+		"/Users/miles/Sites/hollirausch/www/wp-content/themes/holli-joi-2012/readme.txt",
+		"/Users/miles/Sites/nth-logobingo/css/main.css",
+		"/Users/miles/Sites/nth-logobingo/js/main.js",
+		"/Users/miles/Sites/nth-logobingo/404.html",
+		"/Users/miles/Sites/nth-logobingo/index.html",
+		"/Users/miles/Sites/nth-logobingo/js/plugins.js",
+		"/Users/miles/Sites/nth-logobingo/.gitignore",
+		"/Users/miles/Sites/nth-logobingo/humans.txt",
+		"/Users/miles/Sites/nth-logobingo/robots.txt",
+		"/Users/miles/Sites/hiawatha_matchup/templates/layout.html",
+		"/Users/miles/Sites/hiawatha_matchup/static/robots.txt",
+		"/Users/miles/Sites/hiawatha_matchup/templates/admin.html",
+		"/Users/miles/Sites/hiawatha_matchup/app.py",
+		"/Users/miles/Sites/hiawatha_matchup/templates/login.html",
+		"/Users/miles/Sites/hiawatha_matchup/templates/error.html",
+		"/Users/miles/Sites/hiawatha_matchup/templates/game.html",
+		"/Users/miles/Sites/hiawatha_matchup/static/script.js",
+		"/Users/miles/Sites/hiawatha_matchup/templates/checkin.html",
+		"/Users/miles/Sites/hiawatha_matchup/venv/lib/python2.7/site-packages/werkzeug/urls.py",
+		"/Users/miles/Sites/hiawatha_matchup/venv/lib/python2.7/site-packages/werkzeug/local.py",
+		"/Users/miles/Sites/hiawatha_matchup/venv/lib/python2.7/site-packages/flask/globals.py",
+		"/Users/miles/Sites/hiawatha_matchup/venv/lib/python2.7/site-packages/werkzeug/http.py",
+		"/Users/miles/Sites/hiawatha_matchup/templates/game_form.html",
+		"/Users/miles/Sites/hiawatha_matchup/templates/games.html",
+		"/Users/miles/Sites/hiawatha_matchup/templates/page.html",
+		"/Users/miles/Sites/hiawatha_matchup/templates/team.html",
+		"/Users/miles/Sites/hiawatha_matchup/templates/team_form.html",
+		"/Users/miles/Sites/hiawatha_matchup/templates/teams.html",
+		"/Users/miles/Sites/hiawatha_matchup/static/bootstrap.min.css",
+		"/Users/miles/Sites/hiawatha_matchup/templates/matchups.html",
+		"/Users/miles/Sites/hiawatha_matchup/static/humans.txt",
+		"/Users/miles/Sites/hiawatha_matchup/static/crossdomain.xml",
+		"/Users/miles/Sites/hiawatha_matchup/static/screen.css",
+		"/Users/miles/Sites/hiawatha_matchup/requirements.txt",
+		"/Users/miles/Sites/hiawatha_matchup/Procfile",
+		"/Users/miles/Sites/hiawatha_matchup/db_setup.sql",
+		"/Users/miles/Sites/hiawatha_matchup/db_teardown.sql",
+		"/Users/miles/Sites/hiawatha_matchup/templates/matchups_dateplayed.html",
+		"/Users/miles/Sites/hiawatha_matchup/venv/lib/python2.7/site-packages/sqlalchemy/orm/session.py",
+		"/Users/miles/Sites/hiawatha_matchup/venv/lib/python2.7/site-packages/flask_sqlalchemy.py",
+		"/Users/miles/Sites/hiawatha_matchup/venv/lib/python2.7/site-packages/sqlalchemy/schema.py",
+		"/Users/miles/Sites/hiawatha_matchup/venv/lib/python2.7/site-packages/sqlalchemy/__init__.py",
+		"/Users/miles/Sites/hiawatha_matchup/static/style.css",
+		"/Users/miles/Sites/hiawatha_matchup/static/plugins.js",
+		"/Users/miles/Downloads/bootstrap/css/bootstrap.min.css",
+		"/Users/miles/Sites/hiawatha_matchup/static/bootstrap-responsive.min.css",
+		"/Users/miles/Sites/hiawatha_matchup/static/bootstrap.min.js",
+		"/Users/miles/Downloads/bootstrap/js/bootstrap.min.js",
+		"/Users/miles/Sites/hiawatha_matchup/schema.sql",
+		"/Users/miles/Sites/hiawatha_matchup/matchup.py",
+		"/Users/miles/Sites/hiawatha_matchup/templates/matchup.html",
+		"/Users/miles/Sites/hiawatha_matchup/venv/lib/python2.7/site-packages/flask/app.py",
+		"/Users/miles/Sites/hiawatha_matchup/teams.py",
+		"/Users/miles/Sites/hiawatha_matchup/venv/lib/python2.7/site-packages/gunicorn/app/base.py",
+		"/Users/miles/Sites/hiawatha_matchup/venv/lib/python2.7/site-packages/gunicorn/arbiter.py",
+		"/Users/miles/Sites/hiawatha_matchup/venv/bin/gunicorn_django",
+		"/Users/miles/Sites/hiawatha_matchup/venv/bin/easy_install-2.7",
+		"/Users/miles/Sites/hiawatha_matchup/venv/bin/easy_install",
+		"/Users/miles/Sites/hiawatha_matchup/venv/bin/gunicorn_paster"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<open folders>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"!",
+			"minimap",
+			".site-header",
+			"header",
+			"masthead",
+			"function wp_title",
+			"clear: both",
+			"Layout",
+			"domain",
+			"), ",
+			", ",
+			"hsl(0,100%,50%)",
+			"1",
+			"noindex",
+			"logged_in",
+			"team_2",
+			"Team",
+			"update_matchup",
+			"matchup_id",
+			"matchup",
+			"datearchived",
+			"team",
+			"Team",
+			"team",
+			"teams",
+			"update_team",
+			"team_id",
+			"teams",
+			"Team",
+			"update_team",
+			"year",
+			"5000",
+			"web",
+			"ex25.",
+			"%r",
+			"r",
+			"%r",
+			"my_",
+			"property",
+			"class=\"suite",
+			"background",
+			"TALK",
+			"a83d2b",
+			"ep",
+			"Cindensed",
+			"on",
+			"ol>",
+			"ol",
+			"4em",
+			"20px",
+			"#main",
+			"sel",
+			"#main",
+			"_",
+			"style",
+			"autopsy",
+			"tabjs",
+			"install",
+			"love",
+			"&dsquo;",
+			"\"",
+			"'",
+			"dd>",
+			"Garden"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"!",
+			"&rdquo;",
+			"&lsquo;",
+			"&dsquo;",
+			"&rsquo;",
+			"p>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 75.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"ind",
+				"index.html"
+			],
+			[
+				"main",
+				"js/main.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/miles/Sites/mo/mo.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 177.0,
+	"status_bar_visible": true
+}
