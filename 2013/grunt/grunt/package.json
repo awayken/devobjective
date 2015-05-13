@@ -1,0 +1,17 @@
+{
+  "name": "my-sample-project",
+  "version": "0.1.0",
+  "devDependencies": {},
+  "description": "ERROR: No README data found!",
+  "main": "index.js",
+  "dependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib": "~0.6.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD"
+}
