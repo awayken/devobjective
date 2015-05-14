@@ -1,4 +1,4 @@
-component extends="coldbox.system.testing.BaseModelTest"{
+component extends="testbox.system.basespec" {
 
     function setup(){
         // mock some owner
