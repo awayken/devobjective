@@ -1,12 +1,12 @@
 {
-    "name":"My Package",
-    "version":"0.0.0",
+    "name":"Commandbox",
+    "version":"0.1.1+0",
     "author":"",
     "location":"",
     "directory":"",
     "createPackageDirectory":true,
     "packageDirectory":"",
-    "homepage":"",
+    "homepage":"http://www.autoconx.com",
     "documentation":"",
     "repository":{
         "type":"",
@@ -31,10 +31,14 @@
         {
             "type":"adobe",
             "version":">=10.0.0"
+        },
+        {
+            "type":"lucee",
+            "version":">=4.5.x"
         }
     ],
-    "defaultEngine":"",
-    "defaultPort":0,
+    "defaultEngine":"lucee",
+    "defaultPort":8080,
     "projectURL":"",
     "license":[
         {
@@ -43,16 +47,17 @@
         }
     ],
     "contributors":[
-        
+        "Miles Rausch"
     ],
     "dependencies":{
-        
+        "mailchimp-list":"1.0.0"
     },
     "devDependencies":{
         "testbox":"2.1.0"
     },
     "installPaths":{
-        "testbox":"testbox"
+        "testbox":"box_modules/testbox",
+        "mailchimp-list":"box_modules/mailchimp-list"
     },
     "ignore":[
         "**/.*",
