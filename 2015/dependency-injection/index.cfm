@@ -5,7 +5,12 @@
 </head>
 <body>
     <cfscript>
-        dump( url );
+        wirebox = new wirebox.system.ioc.Injector();
+        wirebox.scanLocations = [ 'com' ];
+        dump( wirebox.scanLocations );
+
+        car = wirebox.getInstance('Car');
+        dump( car );
     </cfscript>
 </body>
 </html>
