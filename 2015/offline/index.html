@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <title>Offline Demo</title>
+</head>
+<body>
+    <form action="index.html" method="post" id="dataform">
+        <fieldset>
+            <label>
+                Data
+                <input type="text" value="" id="data" name="data">
+            </label>
+
+            <button type="submit" id="save" name="save">Save</button>
+            <button type="reset" id="reset" name="reset">Reset</button>
+        </fieldset>
+    </form>
+
+    <script src="node_modules/pouchdb/dist/pouchdb.min.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
