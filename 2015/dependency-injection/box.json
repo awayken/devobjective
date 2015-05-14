@@ -1,0 +1,12 @@
+{
+    "dependencies":{
+        "wirebox":"2.0.0"
+    },
+    "installPaths":{
+        "wirebox":"wirebox",
+        "testbox":"testbox"
+    },
+    "devDependencies":{
+        "testbox":"2.1.0"
+    }
+}
