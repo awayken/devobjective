@@ -3,3 +3,5 @@ node_modules
 2015/dependency-injection/testbox
 2015/dependency-injection/wirebox
 2015/commandbox/testbox
+2015/coldbox/coldbox
+2015/coldbox/testbox
