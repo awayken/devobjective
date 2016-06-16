@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Book Reviews with Miles </title>
+    <link>http://replace-this-with-your-hugo-site.com/post/</link>
+    <language>en-us</language>
+    <author>Miles Rausch</author>
+    <rights>(C) 2016</rights>
+    <updated>2016-06-16 10:15:11 -0500 CDT</updated>
+
+    
+      
+        <item>
+          <title>Good to Great : Review</title>
+          <link>http://replace-this-with-your-hugo-site.com/post/good-to-great/</link>
+          <pubDate>Thu, 16 Jun 2016 10:15:11 CDT</pubDate>
+          <author>Miles Rausch</author>
+          <guid>http://replace-this-with-your-hugo-site.com/post/good-to-great/</guid>
+          <description>&lt;p&gt;I read &lt;strong&gt;Good to Great&lt;/strong&gt; in January 2016. An awesome read sharing detailed analysis on how good companies became great. It is fantastic.&lt;/p&gt;
+</description>
+        </item>
+      
+    
+
+  </channel>
+</rss>

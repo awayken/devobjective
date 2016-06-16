@@ -1,0 +1,7 @@
+baseurl = "http://replace-this-with-your-hugo-site.com/"
+languageCode = "en-us"
+title = "Book Reviews with Miles"
+theme = "hugo_theme_robust"
+
+[Params]
+  Author = "Miles Rausch"

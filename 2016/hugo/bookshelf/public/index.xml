@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Book Reviews with Miles</title>
+    <link>http://replace-this-with-your-hugo-site.com/</link>
+    <description>Recent content on Book Reviews with Miles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Jun 2016 10:15:11 -0500</lastBuildDate>
+    <atom:link href="http://replace-this-with-your-hugo-site.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Good to Great : Review</title>
+      <link>http://replace-this-with-your-hugo-site.com/post/good-to-great/</link>
+      <pubDate>Thu, 16 Jun 2016 10:15:11 -0500</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/post/good-to-great/</guid>
+      <description>&lt;p&gt;I read &lt;strong&gt;Good to Great&lt;/strong&gt; in January 2016. An awesome read sharing detailed analysis on how good companies became great. It is fantastic.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
