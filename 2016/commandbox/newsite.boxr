@@ -1,0 +1,5 @@
+mkdir newsite
+cd newsite
+
+install coldbox
+install testbox --saveDev

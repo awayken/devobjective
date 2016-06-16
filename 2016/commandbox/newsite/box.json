@@ -1,0 +1,12 @@
+{
+    "dependencies":{
+        "coldbox":"4.2.0+00002"
+    },
+    "installPaths":{
+        "coldbox":"coldbox",
+        "testbox":"testbox"
+    },
+    "devDependencies":{
+        "testbox":"folder:/Users/miles/Sites/devobjective/2016/commandbox/newsite/testbox"
+    }
+}
