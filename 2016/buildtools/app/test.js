@@ -1,3 +1,3 @@
-window.addEventListener('domready', function() {
+window.addEventListener('onready', () => {
     console.log('Ready!');
 });

@@ -1,3 +1,5 @@
-window.addEventListener('domready', function() {
+'use strict';
+
+window.addEventListener('onready', function () {
     console.log('Ready!');
 });
